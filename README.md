@@ -1,30 +1,34 @@
 # Hello World Project 
 
-A simple program that prints **"Hello, World!"** to demonstrate basic Git workflow and Markdown documentation.
+A simple Java program that prints **"Hello, World!"** — created to demonstrate basic Git workflow and Markdown documentation.
 
 ---
 
-##  Project Description
+## Project Description
 
-This project is part of a Git & Markdown Fundamentals challenge.  
+This project is part of the *Git & Markdown Fundamentals* challenge.  
 It shows how to:
 - Initialize and manage a Git repository.
-- Write clean Markdown documentation.
-- Use version control commits effectively.
+- Write clean and structured Markdown documentation.
+- Use proper commit organization and version control practices.
 
 ---
 
-##  Author & Copyright
+## Author & Copyright
 
 © 2025 Malindu Jayasinghe  
 All rights reserved.
 
 ---
 
-##  Prerequisites
+## Prerequisites
 
+- [Java Development Kit (JDK 8 or later)](https://www.oracle.com/java/technologies/javase-downloads.html)
+- Command-line access or an IDE such as IntelliJ IDEA / Eclipse / VS Code
 
-##  How to Run
+---
+
+## How to Run
 
 1. **Clone this repository:**
    ```bash
